@@ -1,4 +1,4 @@
-# embroidered_tech
+# light_bug
 
 http://www.shlomimir.com/light-bug/
 
